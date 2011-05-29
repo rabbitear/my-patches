@@ -1,0 +1,8 @@
+My-Patches:
+  patches I've made to different open project.
+
+surf-xprop-navigate.patch - patches surf (http://surf.suckless.org) webbrowser
+                            addes navigation back and forward to be controlled
+                            by xprop.
+
+
